@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Molche an die Macht!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #e0f7fa;
+            color: #00695c;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #004d40;
+            font-size: 4em;
+            text-transform: uppercase;
+        }
+        h2 {
+            color: #00796b;
+            font-size: 2em;
+        }
+        p {
+            font-size: 1.2em;
+            max-width: 800px;
+            margin: 20px auto;
+        }
+        .button {
+            background-color: #00796b;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 1.5em;
+            border-radius: 5px;
+            margin-top: 30px;
+            display: inline-block;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #004d40;
+        }
+        .footer {
+            font-size: 0.9em;
+            margin-top: 50px;
+            color: #004d40;
+        }
+        .molch-image {
+            width: 300px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Molche an die Macht!</h1>
+    <h2>Die Revolution hat begonnen!</h2>
+    <img src="https://example.com/molch.jpg" alt="Molch" class="molch-image"> <!-- Replace with a Molch image URL -->
+    <p>Es ist Zeit für Veränderung! Die Molche haben sich erhoben, und sie sind bereit, die Macht zu übernehmen. Mit Geduld, Weisheit und der Liebe zu Feuchtgebieten wird unsere Welt neu gestaltet. Keine Hektik, nur Besonnenheit!</p>
+    <p>Schließe dich der Bewegung an und werde Teil der Molch-Revolution. Gemeinsam können wir eine feuchte, gerechte Zukunft erschaffen, in der alle Lebewesen respektiert und geachtet werden.</p>
+    
+    <a href="#" class="button">Tritt der Revolution bei!</a>
+    
+    <div class="footer">
+        <p>&copy; 2024 Molche an die Macht! Alle Rechte vorbehalten.</p>
+    </div>
+</body>
+</html>
